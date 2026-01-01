@@ -477,6 +477,14 @@ http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
 https://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
 #EXTINF:-1 tvg-name="金坛综合" tvg-id="金坛综合" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/金坛综合.png" group-title="县级频道",金坛综合
 http://ott.mobaibox.com/PLTV/3/224/3221228846/index.m3u8
+#EXTINF:-1 tvg-name="江阴新闻综合" tvg-id="江阴新闻综合" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/江阴新闻综合.PNG" group-title="县级频道",江阴新闻综合
+http://ott.mobaibox.com/PLTV/3/224/3221228980/index.m3u8
+#EXTINF:-1 tvg-name="江阴民生频道" tvg-id="江阴民生频道" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/江阴民生频道.PNG" group-title="县级频道",江阴民生频道
+http://ott.mobaibox.com/PLTV/3/224/3221228983/index.m3u8
+#EXTINF:-1 tvg-name="江阴电视剧" tvg-id="江阴电视剧" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/江阴电视剧.PNG" group-title="县级频道",江阴电视剧频道
+http://ott.mobaibox.com/PLTV/3/224/3221228913/index.m3u8
+#EXTINF:-1 tvg-name="江阴社会经济" tvg-id="江阴社会经济" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/江阴社会经济.PNG" group-title="县级频道",江阴社会经济频道
+http://ott.mobaibox.com/PLTV/3/224/3221228930/index.m3u8
 #EXTINF:-1 tvg-name="昆山新闻综合" tvg-id="昆山新闻综合" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/昆山新闻综合.png" group-title="县级频道",昆山新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221228820/index.m3u8
 
@@ -487,7 +495,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228712/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228709/index.m3u8
 #EXTINF:-1 tvg-name="Live南京·音乐台" tvg-id="Live南京" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/Live南京.PNG" group-title="城市直播",音乐台
 http://ott.mobaibox.com/PLTV/3/224/3221228753/index.m3u8
-#EXTINF:-1 tvg-name="Live南京·南京眼" tvg-id="Live南京" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/Live南京.PNG" group-title="城市直播",南京眼
+#EXTINF:-1 tvg-name="Live南京·牛首山佛顶广场" tvg-id="Live南京" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/Live南京.PNG" group-title="城市直播",牛首山佛顶广场
 http://ott.mobaibox.com/PLTV/3/224/3221228806/index.m3u8
 #EXTINF:-1 tvg-name="Live南京·南京南站" tvg-id="Live南京" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/Live南京.PNG" group-title="城市直播",南京南站
 http://ott.mobaibox.com/PLTV/3/224/3221228715/index.m3u8
