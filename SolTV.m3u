@@ -242,11 +242,11 @@ http://ott.mobaibox.com/PLTV/3/224/3221226999/index.m3u8
 #EXTINF:-1 tvg-name="农林卫视" tvg-id="农林卫视" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/农林卫视.png" group-title="卫视频道",陕西｜农林卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227648/index.m3u8
 #EXTINF:-1 tvg-name="山东教育" tvg-id="山东教育" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/山东教育.png" group-title="卫视频道",山东｜山东教育卫视
-http://ott.mobaibox.com/PLTV/3/224/3221227580/index.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221228998/index.m3u8
 #EXTINF:-1 tvg-name="纪实科教" tvg-id="纪实科教" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/北京纪实科教.png" group-title="卫视频道",北京｜纪实科教频道
 http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/卡酷少儿.png" group-title="卫视频道",北京｜卡酷少儿卫视
-http://ott.mobaibox.com/PLTV/3/224/3221227566/index.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221228928/index.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-id="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/金鹰纪实.png" group-title="卫视频道",湖南｜金鹰纪实卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228110/index.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/金鹰卡通.png" group-title="卫视频道",湖南｜金鹰卡通卫视
@@ -292,7 +292,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227398/index.m3u8
 #EXTINF:-1 tvg-name="江苏教育" tvg-id="江苏教育" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/江苏教育电视台.png" group-title="省级频道",江苏教育频道
 http://ott.mobaibox.com/PLTV/3/224/3221228613/index.m3u8
 #EXTINF:-1 tvg-name="财富天下" tvg-id="财富天下" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/财富天下.png" group-title="省级频道",财富天下频道
-https://migu.188766.xyz/?migutoken=dbbcbf58e75dceebba5bf714e5a85b87&id=%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B&type=yy
+https://migu.188766.xyz/?migutoken=55b15c70ae26d7166bb690fd66167b8b&id=%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B&type=yy
 #EXTINF:-1 tvg-name="江苏新闻综合广播" tvg-id="江苏新闻综合广播" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/radiologo/江苏新闻综合广播.png" group-title="省级频道",江苏新闻综合广播
 http://ott.mobaibox.com/PLTV/3/224/3221227934/index.m3u8
 #EXTINF:-1 tvg-name="江苏新闻广播" tvg-id="江苏新闻广播" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/radiologo/江苏新闻广播.png" group-title="省级频道",江苏新闻广播
@@ -333,7 +333,7 @@ http://ott.mobaibox.com/PLTV/4/224/3221225945/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221225947/index.m3u8
 #EXTINF:-1 tvg-name="徐州文艺影视" tvg-id="徐州文艺影视" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/徐州文艺影视.png" group-title="地级频道",徐州文艺影视
 http://ott.mobaibox.com/PLTV/4/224/3221225949/index.m3u8
-#EXTINF:-1 tvg-name="徐州公共" tvg-id="徐州公共" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/徐州公共.png" group-title="地级频道",徐州公共
+#EXTINF:-1 tvg-name="徐州公共" tvg-id="徐州公共" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/徐州公共.png" group-title="地级频道",徐州公共[停播]
 http://ott.mobaibox.com/PLTV/4/224/3221225951/index.m3u8
 #EXTINF:-1 tvg-name="连云港新闻综合" tvg-id="连云港新闻综合" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/连云港新闻综合.png" group-title="地级频道",连云港新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221227758/index.m3u8
@@ -349,7 +349,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228837/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228435/index.m3u8
 #EXTINF:-1 tvg-name="盐城法制生活" tvg-id="盐城法制生活" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/盐城法制生活.png" group-title="地级频道",盐城法制生活
 http://ott.mobaibox.com/PLTV/3/224/3221228433/index.m3u8
-#EXTINF:-1 tvg-name="盐城城市公共" tvg-id="盐城城市公共" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/盐城城市公共.png" group-title="地级频道",盐城城市公共
+#EXTINF:-1 tvg-name="盐城城市公共" tvg-id="盐城城市公共" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/盐城城市公共.png" group-title="地级频道",盐城城市公共[停播]
 http://ott.mobaibox.com/PLTV/3/224/3221228436/index.m3u8
 #EXTINF:-1 tvg-name="扬州新闻综合" tvg-id="扬州新闻综合" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/扬州新闻.png" group-title="地级频道",扬州新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221228155/index.m3u8
@@ -375,7 +375,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228451/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228246/index.m3u8
 #EXTINF:-1 tvg-name="镇江社会民生" tvg-id="镇江社会民生" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/镇江社会民生.png" group-title="地级频道",镇江社会民生
 http://ott.mobaibox.com/PLTV/3/224/3221227325/index.m3u8
-#EXTINF:-1 tvg-name="镇江城市资讯" tvg-id="镇江城市资讯" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/镇江城市资讯.png" group-title="地级频道",镇江城市资讯
+#EXTINF:-1 tvg-name="镇江城市资讯" tvg-id="镇江城市资讯" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/镇江城市资讯.png" group-title="地级频道",镇江城市资讯[停播]
 http://ott.mobaibox.com/PLTV/3/224/3221228208/index.m3u8
 #EXTINF:-1 tvg-name="常州新闻综合" tvg-id="常州新闻综合" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/常州新闻综合.png" group-title="地级频道",常州新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221227752/index.m3u8
@@ -427,9 +427,9 @@ http://ott.mobaibox.com/PLTV/3/224/3221228812/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227289/index.m3u8
 #EXTINF:-1 tvg-name="新沂生活频道" tvg-id="新沂生活频道" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/新沂电视台.png" group-title="县级频道",新沂生活频道
 http://ott.mobaibox.com/PLTV/3/224/3221227311/index.m3u8
-#EXTINF:-1 tvg-name="新沂影视剧频道" tvg-id="新沂影视剧频道" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/新沂电视台.png" group-title="县级频道",影视剧频道
+#EXTINF:-1 tvg-name="新沂影视剧频道" tvg-id="新沂影视剧频道" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/新沂电视台.png" group-title="县级频道",影视剧频道[停播]
 http://ott.mobaibox.com/PLTV/3/224/3221227372/index.m3u8
-#EXTINF:-1 tvg-name="新沂民间小调频道" tvg-id="新沂民间小调频道" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/新沂电视台.png" group-title="县级频道",民间小调
+#EXTINF:-1 tvg-name="新沂民间小调频道" tvg-id="新沂民间小调频道" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/新沂电视台.png" group-title="县级频道",民间小调[停播]
 http://ott.mobaibox.com/PLTV/3/224/3221227292/index.m3u8
 #EXTINF:-1 tvg-name="睢宁综合" tvg-id="睢宁综合" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/睢宁综合.png" group-title="县级频道",睢宁综合
 http://ott.mobaibox.com/PLTV/3/224/3221227706/index.m3u8
@@ -882,7 +882,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 #EXTINF:-1 tvg-name="无线经典" tvg-id="千禧经典" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/TVB 经典台.png" group-title="省外聚合",千禧經典台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 #EXTINF:-1 tvg-name="澳门莲花卫视" tvg-id="澳门莲花" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/澳门莲花.png" group-title="省外聚合",澳門蓮花衛視
-http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
+http://cdn6.163189.xyz/163189/amlh
 #EXTINF:-1 tvg-name="澳视澳门" tvg-id="澳视澳门" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/澳视澳门.png" group-title="省外聚合",澳門-MACAU
 https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 #EXTINF:-1 tvg-name="人间卫视" tvg-id="人间卫视" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/人间卫视.png" group-title="省外聚合",人間衛視
@@ -937,8 +937,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221228962/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-id="北京卫视4K" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/北京卫视4K.png" group-title="高清备选",北京卫视4K
 http://ott.mobaibox.com/PLTV/3/224/3221228817/index.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" tvg-id="江苏卫视" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/江苏卫视.png" group-title="高清备选",江苏卫视
-http://ott.mobaibox.com/PLTV/3/224/3221228861/index.m3u8
 
 #央视5.1声道
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="CCTV1" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/CCTV1.png" group-title="央视5.1声道",CCTV-1 综合
