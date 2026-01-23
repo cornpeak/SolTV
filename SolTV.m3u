@@ -849,6 +849,12 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 https://amg00437-amg00437c3-firetv-us-5409.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-name="MyTime Movie" tvg-id="mytimemovie" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/MyTimeMovie.png" group-title="省外聚合",MyTime Movie
 https://mytime-tcl.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-name="新加坡5频道" tvg-id="新加坡5频道" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/新加坡5频道.png" group-title="省外聚合",新传媒5频道
+http://cdn6.163189.xyz/163189/ch5
+#EXTINF:-1 tvg-name="新加坡8频道" tvg-id="新加坡8频道" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/新加坡8频道.png" group-title="省外聚合",新传媒8频道
+http://cdn6.163189.xyz/163189/ch8
+#EXTINF:-1 tvg-name="新加坡U频道" tvg-id="新加坡U频道" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/新加坡U频道.png" group-title="省外聚合",新传媒U频道
+http://cdn6.163189.xyz/163189/chu
 #EXTINF:-1 tvg-name="凤凰卫视电影" tvg-id="凤凰卫视电影" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/凤凰卫视电影台.png" group-title="省外聚合",鳳凰衛視電影台
 http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 #EXTINF:-1 tvg-name="VIUTV" tvg-id="VIUTV" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/ViuTV.png" group-title="省外聚合",VIUTV
@@ -881,12 +887,24 @@ https://6.cdn.loc.cc/163189.php?id=tvbd
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 #EXTINF:-1 tvg-name="无线经典" tvg-id="千禧经典" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/TVB 经典台.png" group-title="省外聚合",千禧經典台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+#EXTINF:-1 tvg-name="澳视澳门" tvg-id="澳视澳门" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/澳视澳门.png" group-title="省外聚合",澳視澳門
+http://php.jdshipin.com/TVOD/iptv.php?id=asam
+#EXTINF:-1 tvg-name="澳门体育" tvg-id="澳门体育" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/澳门体育.png" group-title="省外聚合",澳門體育
+http://cdn6.163189.xyz/163189/amty
+#EXTINF:-1 tvg-name="澳门综艺" tvg-id="澳门综艺" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/澳门综艺.png" group-title="省外聚合",澳門綜藝
+http://cdn6.163189.xyz/163189/amzy
+#EXTINF:-1 tvg-name="澳门Macau" tvg-id="澳门Macau" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/澳门Macau.png" group-title="省外聚合",澳門-Macau
+http://php.jdshipin.com/TVOD/iptv.php?id=as
 #EXTINF:-1 tvg-name="澳门莲花卫视" tvg-id="澳门莲花" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/澳门莲花.png" group-title="省外聚合",澳門蓮花衛視
 http://cdn6.163189.xyz/163189/amlh
-#EXTINF:-1 tvg-name="澳视澳门" tvg-id="澳视澳门" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/澳视澳门.png" group-title="省外聚合",澳門-MACAU
-https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-name="天映" tvg-id="天映" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/天映.png" group-title="省外聚合",天映頻道
+http://php.jdshipin.com/smt.php?id=Celestial
+#EXTINF:-1 tvg-name="天映经典" tvg-id="天映经典" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/天映经典.png" group-title="省外聚合",天映經典頻道
+http://php.jdshipin.com/smt.php?id=Celestial2
 #EXTINF:-1 tvg-name="人间卫视" tvg-id="人间卫视" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/人间卫视.png" group-title="省外聚合",人間衛視
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-id="四海钓鱼" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/四海钓鱼.png" group-title="省外聚合",四海钓鱼
+http://hlsbkmgsplive.miguvideo.com/wd_r4/peoplecn/shdiaoyu/1200/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-name="海峡卫视" tvg-id="海峡卫视" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/海峡卫视.png" group-title="省外聚合",海峡卫视
 http://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/57/20230724/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-id="上海新闻综合" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/上视新闻.png" group-title="省外聚合",上海新闻综合频道
