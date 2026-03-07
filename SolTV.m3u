@@ -819,6 +819,8 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=200000
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000006000270004&livemode=1&stbId=meyou&mode=1
 
 #省外聚合
+#EXTINF:-1 tvg-id="河北4K" tvg-name="河北4K" tvg-logo="https://tb.zbds.top/logo/河北4K.png" group-title="省外聚合",河北4K [轮播]
+https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/上视新闻.png" group-title="省外聚合",上海新闻综合频道
 http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/3000/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/上海第一财经.png" group-title="省外聚合",上海第一财经频道
@@ -931,8 +933,12 @@ http://61.221.215.25:8800/hls/48/index.m3u8
 http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBS亚洲" tvg-name="TVBS亚洲" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/TVBS亚洲.png" group-title="省外聚合",TVBS亞洲台
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 tvg-id="生命电视" tvg-name="生命电视" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/生命电视.png" group-title="省外聚合",生命電視
+#EXTINF:-1 tvg-id="生命电视" tvg-name="生命电视" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/生命电视.png" group-title="省外聚合",生命電視台
 http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
+#EXTINF:-1 tvg-id="好消息综合" tvg-name="好消息综合" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e0/Good_tv.png" group-title="省外聚合",好消息綜合台
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
+#EXTINF:-1 tvg-id="好消息真理造就" tvg-name="好消息真理造就" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8e/Good_tv_2.png" group-title="省外聚合",好消息真理造就台
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-3.m3u8
 #EXTINF:-1 tvg-id="人间卫视" tvg-name="人间卫视" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/人间卫视.png" group-title="省外聚合",人間衛視
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 #EXTINF:-1 tvg-id="龙华动画" tvg-name="龙华动画" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/龙华动画.png" group-title="省外聚合",龍華動畫
@@ -953,6 +959,8 @@ http://cdn8.163189.xyz/163189/lhdy
 http://cdn8.163189.xyz/163189/lhyp
 #EXTINF:-1 tvg-id="龙华经典" tvg-name="龙华经典" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/龙华经典.png" group-title="省外聚合",龍華經典
 http://cdn8.163189.xyz/163189/lhjd
+#EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/HISTORY.png" group-title="省外聚合",HISTORY
+http://37.27.111.214:8080/live/27/hls.m3u8
 #EXTINF:-1 tvg-id="CNA" tvg-name="亚洲新闻" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/亚洲新闻.png" group-title="省外聚合",亚洲新闻台
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="新加坡5频道" tvg-name="新加坡5频道" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/新加坡5频道.png" group-title="省外聚合",新传媒5频道
@@ -962,9 +970,9 @@ http://cdn6.163189.xyz/163189/ch8
 #EXTINF:-1 tvg-id="新加坡U频道" tvg-name="新加坡U频道" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/新加坡U频道.png" group-title="省外聚合",新传媒U频道
 http://cdn6.163189.xyz/163189/chu
 #EXTINF:-1 tvg-id="天映" tvg-name="天映" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/天映.png" group-title="省外聚合",天映頻道
-http://php.jdshipin.com/smt.php?id=Celestial
+https://cdn10.163189.xyz/stream/163189/typd/
 #EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/天映经典.png" group-title="省外聚合",天映經典頻道
-http://php.jdshipin.com/smt.php?id=Celestial2
+https://cdn10.163189.xyz/stream/163189/ccm/
 #EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Logo_8TV_Malaysia.png/960px-Logo_8TV_Malaysia.png" group-title="省外聚合",八度空间
 http://cdn6.163189.xyz/163189/8tv
 #EXTINF:-1 tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/爱奇艺.png" group-title="省外聚合",Astro爱奇艺
@@ -991,6 +999,8 @@ https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
 #EXTINF:-1 tvg-id="France5" tvg-name="France5" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/FranceTV5.PNG" group-title="省外聚合",France 5
 http://69.64.57.208/france5/mono.m3u8
+#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/DW.png" group-title="省外聚合",DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="BBCEarth" tvg-name="BBCEarth" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/BBCEarth.png" group-title="省外聚合",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="moonbug" tvg-name="MoonBug" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/MoonBug.png" group-title="省外聚合",MoonBug
