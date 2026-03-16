@@ -828,7 +828,7 @@ http://hlsbkmgsplive.miguvideo.com/wd_r1/2018/bestv/dycj/1000/index.m3u8?&encryp
 #EXTINF:-1 tvg-id="上视东方影视" tvg-name="东方影视" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/东方影视.png" group-title="省外聚合",上视东方影视频道
 http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dianshijuhd/3000/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/五星体育.png" group-title="省外聚合",五星体育
-https://cdn3.163189.xyz/163189/wxty
+https://cdn15.163189.xyz/163189/9c893bb003e1c7de
 #EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/法治天地.png" group-title="省外聚合",法治天地频道
 http://hlsbkmgsplive.miguvideo.com/migu/kailu/fztdhd/57/20230411/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/劲爆体育.png" group-title="省外聚合",劲爆体育频道
@@ -877,10 +877,14 @@ http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/ViuTV.png" group-title="省外聚合",VIUTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+#EXTINF:-1 tvg-id="HOY76" tvg-name="HOY76" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/2b/HoYIBC_logo.png" group-title="省外聚合",HOY76 國際財經台
+https://cdn11.163189.xyz/163189/2c86601a7180416e
 #EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/HOY77.png" group-title="省外聚合",HOY77
-http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+https://php.jdshipin.com:2096/TVOD/iptv.php?id=hoytv2
+#EXTINF:-1 tvg-id="HOY78" tvg-name="HOYTV资讯" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/960px-HOY_TV_Logo.svg.png" group-title="省外聚合",HOY78 資訊台
+http://cdn.163189.xyz/163189/hoy78
 #EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/美亚电影台.png" group-title="省外聚合",美亞電影台
-http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+https://php.jdshipin.com:2096/TVOD/iptv.php?id=meiya
 #EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/RTHK31.png" group-title="省外聚合",RTHK31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/RTHK32.png" group-title="省外聚合",RTHK32
@@ -920,9 +924,9 @@ http://cdn6.163189.xyz/163189/amlh
 #EXTINF:-1 tvg-id="TAIWANPLUS" tvg-name="TaiwanPlus" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/TaiwanPlus.png" group-title="省外聚合",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/台视新闻.png" group-title="省外聚合",台視新聞
-http://222.128.55.152:9080/live/ts.m3u8
+http://74.91.26.218:82/live/ttvnews.m3u8
 #EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/民视新闻台.png" group-title="省外聚合",民視新聞台
-http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+http://74.91.26.218:82/live/ftvnews.m3u8
 #EXTINF:-1 tvg-id="中天娱乐" tvg-name="中天娱乐" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/中天娱乐.png" group-title="省外聚合",中天娛樂HD
 http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 tvg-id="三立戏剧" tvg-name="三立戏剧" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/三立戏剧.png" group-title="省外聚合",三立戲劇台
@@ -973,18 +977,26 @@ http://cdn6.163189.xyz/163189/chu
 https://cdn10.163189.xyz/stream/163189/typd/
 #EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/天映经典.png" group-title="省外聚合",天映經典頻道
 https://cdn10.163189.xyz/stream/163189/ccm/
+#EXTINF:-1 tvg-id="popc" tvg-name="PopC" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/popc.png" group-title="省外聚合",PopC
+http://tl.061833.xyz/tl/popc
 #EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Logo_8TV_Malaysia.png/960px-Logo_8TV_Malaysia.png" group-title="省外聚合",八度空间
 http://cdn6.163189.xyz/163189/8tv
 #EXTINF:-1 tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/爱奇艺.png" group-title="省外聚合",Astro爱奇艺
-http://php.jdshipin.com/smt.php?id=Qiyi
+http://o11.163189.xyz/stream/live/iqiyi/
 #EXTINF:-1 tvg-id="aec" tvg-name="AstroAEC" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-128,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" group-title="省外聚合",Astro AEC
-http://php.jdshipin.com/smt.php?id=AEC
+http://o11.163189.xyz/stream/live/aec/
 #EXTINF:-1 tvg-id="AstroQJ" tvg-name="AstroQJ" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-128,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" group-title="省外聚合",Astro QJ
-http://php.jdshipin.com/smt.php?id=Quanjia
+https://php.jdshipin.com:2096/smt.php?id=Quanjia
 #EXTINF:-1 tvg-id="aod" tvg-name="AstroAOD" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-128,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png" group-title="省外聚合",Astro AOD
-http://php.jdshipin.com/TVOD/iptv.php?id=aod
+http://o11.163189.xyz/stream/live/aod/
 #EXTINF:-1 tvg-id="AstroHuaHeeDai" tvg-name="AstroHuaHeeDai" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-128,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/162_144.png" group-title="省外聚合",Astro 欢喜台
-http://php.jdshipin.com/smt.php?id=Huahee
+http://o11.163189.xyz/stream/live/hxt/
+#EXTINF:-1 tvg-id="中国电影" tvg-name="中国电影" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/中国电影.png" group-title="省外聚合",中國電影頻道
+http://iptv.4666888.xyz/iptv2A.php?id=61
+#EXTINF:-1 tvg-id="梦工厂动画" tvg-name="DREAMWORKS梦工厂动画" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/梦工厂动画.png" group-title="省外聚合",夢工廠動畫
+http://iptv.4666888.xyz/iptv2A.php?id=40
+#EXTINF:-1 tvg-id="MOMO亲子" tvg-name="MOMO亲子" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/MOMO亲子.png" group-title="省外聚合",MOMO親子
+http://iptv.4666888.xyz/iptv2A.php?id=49
 #EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/ArirangTV.png" group-title="省外聚合",Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-id="RTNews" tvg-name="RTNews" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/RTNews.png" group-title="省外聚合",RT News
