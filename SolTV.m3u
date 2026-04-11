@@ -561,6 +561,8 @@ http://ott.mobaibox.com/PLTV/3/224/3221229097/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221229053/index.m3u8
 
 #咪咕数字
+#EXTINF:-1 tvg-id="芒果TV直播" tvg-name="芒果TV直播" tvg-logo="https://www.eternityx.com/wp-content/uploads/2022/04/Mango-TV-%E8%8A%92%E6%9E%9CTV-Logo.png" group-title="咪咕数字",芒果TV直播
+http://ott.mobaibox.com/PLTV/3/224/3221227896/index.m3u8
 #EXTINF:-1 tvg-id="AI直播" tvg-name="AI直播" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/AI直播.png" group-title="咪咕数字",CNR AI直播 4K
 http://ott.mobaibox.com/PLTV/3/224/3221228873/index.m3u8
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/睛彩竞技.png" group-title="咪咕数字",睛彩竞技
@@ -635,8 +637,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
 
 #轮播频道
-#EXTINF:-1 tvg-id="测试节目" tvg-name="测试节目" tvg-logo="https://www.gitv.cn/images/galaxy01.png" group-title="轮播频道",测试节目
-http://ott.mobaibox.com/PLTV/3/224/3221227896/index.m3u8
 #EXTINF:-1 tvg-id="GITV高清臻享" tvg-name="高清臻享" tvg-logo="https://www.gitv.cn/images/galaxy01.png" group-title="轮播频道",高清臻享
 http://ott.mobaibox.com/PLTV/3/224/3221228589/index.m3u8
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/纯享4K.png" group-title="轮播频道",纯享4K
@@ -852,6 +852,24 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=200000
 #EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/咪咕视频.png" group-title="咪咕直播",咪咕视频-9
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000006000270004&livemode=1&stbId=meyou&mode=1
 
+#苏超直播
+#EXTINF:-1 tvg-id="苏超直播" tvg-name="苏超直播" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDGoPM-NEcKQdv28sH8aUDqW89eZ5OIWCjoQLDR2y6w&s=10" group-title="苏超直播",苏超直播1 [仅限比赛时段]
+http://ott.mobaibox.com/PLTV/3/224/3221228592/index.m3u8
+#EXTINF:-1 tvg-id="苏超直播" tvg-name="苏超直播" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDGoPM-NEcKQdv28sH8aUDqW89eZ5OIWCjoQLDR2y6w&s=10" group-title="苏超直播",苏超直播2 [仅限比赛时段]
+http://ott.mobaibox.com/PLTV/3/224/3221228735/index.m3u8
+#EXTINF:-1 tvg-id="苏超直播" tvg-name="苏超直播" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDGoPM-NEcKQdv28sH8aUDqW89eZ5OIWCjoQLDR2y6w&s=10" group-title="苏超直播",苏超直播3 [仅限比赛时段]
+http://ott.mobaibox.com/PLTV/3/224/3221228738/index.m3u8
+#EXTINF:-1 tvg-id="苏超直播" tvg-name="苏超直播" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDGoPM-NEcKQdv28sH8aUDqW89eZ5OIWCjoQLDR2y6w&s=10" group-title="苏超直播",苏超直播4 [仅限比赛时段]
+http://ott.mobaibox.com/PLTV/3/224/3221228750/index.m3u8
+#EXTINF:-1 tvg-id="苏超直播" tvg-name="苏超直播" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDGoPM-NEcKQdv28sH8aUDqW89eZ5OIWCjoQLDR2y6w&s=10" group-title="苏超直播",苏超直播5 [仅限比赛时段]
+http://ott.mobaibox.com/PLTV/3/224/3221228803/index.m3u8
+#EXTINF:-1 tvg-id="苏超直播" tvg-name="苏超直播" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDGoPM-NEcKQdv28sH8aUDqW89eZ5OIWCjoQLDR2y6w&s=10" group-title="苏超直播",苏超直播6 [仅限比赛时段]
+http://ott.mobaibox.com/PLTV/3/224/3221228867/index.m3u8
+#EXTINF:-1 tvg-id="苏超直播" tvg-name="苏超直播" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDGoPM-NEcKQdv28sH8aUDqW89eZ5OIWCjoQLDR2y6w&s=10" group-title="苏超直播",苏超直播7 [仅限比赛时段]
+http://ott.mobaibox.com/PLTV/3/224/3221228905/index.m3u8
+#EXTINF:-1 tvg-id="苏超直播" tvg-name="苏超直播" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDGoPM-NEcKQdv28sH8aUDqW89eZ5OIWCjoQLDR2y6w&s=10" group-title="苏超直播",苏超直播8 [仅限比赛时段]
+http://ott.mobaibox.com/PLTV/3/224/3221228908/index.m3u8
+
 #省外聚合
 #EXTINF:-1 tvg-id="河北4K" tvg-name="河北4K" tvg-logo="https://tb.zbds.top/logo/河北4K.png" group-title="省外聚合",河北4K [轮播]
 https://event.pull.hebtv.com:443/live/live101.m3u8
@@ -929,7 +947,7 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 http://74.91.26.218:82/live/ttvnews.m3u8
 #EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/民视新闻台.png" group-title="省外聚合",民視新聞台
 http://74.91.26.218:82/live/ftvnews.m3u8
-#EXTINF:-1 tvg-id="民视影剧台" tvg-name="民视影剧台" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/民视影剧台.png" group-title="省外聚合",民視影劇台
+#EXTINF:-1 tvg-id="民视影剧" tvg-name="民视影剧" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/民视影剧.png" group-title="省外聚合",民視影劇台
 https://cdn12.178.indevs.in/163189/73d93f1c22fa91d7
 #EXTINF:-1 tvg-id="中天娱乐" tvg-name="中天娱乐" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/中天娱乐.png" group-title="省外聚合",中天娛樂HD
 http://61.221.215.25:8800/hls/47/index.m3u8
@@ -1027,8 +1045,12 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="RTDoc" tvg-name="RT Documentary" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/RTDoc.png" group-title="省外聚合",RT Documentary
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="TVBrics" tvg-name="TVBrics" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/TVBrics.png" group-title="省外聚合",TV Brics
+https://chibrics.mediacdn.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="aljazeera" tvg-name="Al Jazeera English" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/aljazeera.png" group-title="省外聚合",Al Jazeera English
 https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="WionNews" tvg-name="WionNews" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/WionNews.png" group-title="省外聚合",Wion News
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-id="France24" tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/France24.png" group-title="省外聚合",France 24
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="FTV" tvg-name="FTV" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/FashionTV.png" group-title="省外聚合",Fashion TV
