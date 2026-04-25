@@ -547,6 +547,10 @@ http://ott.mobaibox.com/PLTV/3/224/3221228712/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228709/index.m3u8
 #EXTINF:-1 tvg-id="Live南京" tvg-name="Live南京·音乐台" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/Live南京.PNG" group-title="城市直播",音乐台
 http://ott.mobaibox.com/PLTV/3/224/3221228753/index.m3u8
+#EXTINF:-1 tvg-id="Live南京" tvg-name="Live南京·紫峰眺望3" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/Live南京.PNG" group-title="城市直播",紫峰眺望3
+http://ott.mobaibox.com/PLTV/3/224/3221228905/index.m3u8
+#EXTINF:-1 tvg-id="Live南京" tvg-name="Live南京·阅江楼" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/Live南京.PNG" group-title="城市直播",阅江楼
+http://ott.mobaibox.com/PLTV/3/224/3221228902/index.m3u8
 #EXTINF:-1 tvg-id="Live南京" tvg-name="Live南京·牛首山佛顶广场" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/Live南京.PNG" group-title="城市直播",牛首山佛顶广场
 http://ott.mobaibox.com/PLTV/3/224/3221228806/index.m3u8
 #EXTINF:-1 tvg-id="Live南京" tvg-name="Live南京·南京南站" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/Live南京.PNG" group-title="城市直播",南京南站
@@ -705,16 +709,24 @@ http://ott.mobaibox.com/PLTV/3/224/3221228716/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228621/index.m3u8
 #EXTINF:-1 tvg-id="GITV繁花" tvg-name="繁花" tvg-logo="https://image.tmdb.org/t/p/original/axlSPi0kLXgbrKz554m3FOP3tb5.png" group-title="轮播频道",繁花
 http://ott.mobaibox.com/PLTV/1/224/3221228710/index.m3u8
+#EXTINF:-1 tvg-id="GITV太阳的后裔" tvg-name="太阳的后裔" tvg-logo="https://image.tmdb.org/t/p/original/mTzYhPObelqioatnGWUfOfUON3U.png" group-title="轮播频道",太阳的后裔
+http://ott.mobaibox.com/PLTV/3/224/3221228666/index.m3u8
 #EXTINF:-1 tvg-id="GITV请回答1988" tvg-name="请回答1988" tvg-logo="https://image.tmdb.org/t/p/original/u72mvdNJ0MJEJb1ZmEOGgrPr369.png" group-title="轮播频道",请回答1988
 http://ott.mobaibox.com/PLTV/3/224/3221228669/index.m3u8
 #EXTINF:-1 tvg-id="GITV哦我的鬼神大人" tvg-name="哦我的鬼神大人" tvg-logo="https://image.tmdb.org/t/p/original/83rTmGaTiPGrDfK0y2KsTsinXLi.png" group-title="轮播频道",哦我的鬼神大人
 http://ott.mobaibox.com/PLTV/3/224/3221228776/index.m3u8
 #EXTINF:-1 tvg-id="GITVW-两个世界" tvg-name="W-两个世界" tvg-logo="https://image.tmdb.org/t/p/original/vdD7sZmTzn8QBIOUjOupxy8fNY.png" group-title="轮播频道",W-两个世界
 http://ott.mobaibox.com/PLTV/3/224/3221228681/index.m3u8
+#EXTINF:-1 tvg-id="GITV邪恶与疯狂" tvg-name="邪恶与疯狂" tvg-logo="https://image.tmdb.org/t/p/original/xW9fDVCHrIH6eZvUZJKGbMQnDYL.png" group-title="轮播频道",邪恶与疯狂
+http://ott.mobaibox.com/PLTV/3/224/3221228663/index.m3u8
 #EXTINF:-1 tvg-id="GITV花千骨" tvg-name="花千骨" tvg-logo="https://image.tmdb.org/t/p/original/2mWyCWfWy46paOfgIrTTYSSpMN0.png" group-title="轮播频道",花千骨
 http://ott.mobaibox.com/PLTV/3/224/3221228711/index.m3u8
 #EXTINF:-1 tvg-id="GITV永安梦" tvg-name="永安梦" tvg-logo="https://image.tmdb.org/t/p/original/9HjrIr0ZurSs3ST3XOHE49roRqu.png" group-title="轮播频道",永安梦
 http://ott.mobaibox.com/PLTV/3/224/3221228627/index.m3u8
+#EXTINF:-1 tvg-id="GITV楚乔传" tvg-name="楚乔传" tvg-logo="https://image.tmdb.org/t/p/original/7EkQtwlambf3vDUsAU0rHctcuFU.png" group-title="轮播频道",楚乔传
+http://ott.mobaibox.com/PLTV/3/224/3221228687/index.m3u8
+#EXTINF:-1 tvg-id="GITV梦华录" tvg-name="梦华录" tvg-logo="https://image.tmdb.org/t/p/original/oc0EGW17T24uIOuJYuQiV0pce58.png" group-title="轮播频道",梦华录
+http://ott.mobaibox.com/PLTV/3/224/3221227539/index.m3u8
 #EXTINF:-1 tvg-id="GITV庆余年" tvg-name="庆余年" tvg-logo="https://image.tmdb.org/t/p/original/jwOAXPPTVQtBRvNB88UgycITOac.png" group-title="轮播频道",庆余年
 http://ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8
 #EXTINF:-1 tvg-id="GITV繁城之下" tvg-name="繁城之下" tvg-logo="https://image.tmdb.org/t/p/original/nLkSd2Jgs6D4L1xzq0aKxh2LIby.png" group-title="轮播频道",繁城之下
@@ -729,6 +741,20 @@ http://ott.mobaibox.com/PLTV/3/224/3221228896/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228899/index.m3u8
 #EXTINF:-1 tvg-id="GITV无间" tvg-name="无间" tvg-logo="https://image.tmdb.org/t/p/original/jVLqGUxK83EDijaNQOZ41a6pnhx.png" group-title="轮播频道",无间
 http://ott.mobaibox.com/PLTV/3/224/3221228911/index.m3u8
+#EXTINF:-1 tvg-id="GITV谢谢你温暖我" tvg-name="谢谢你温暖我" tvg-logo="https://image.tmdb.org/t/p/original/8TzUhftY78lcOTgANrpiF0qKRco.png" group-title="轮播频道",谢谢你温暖我
+http://ott.mobaibox.com/PLTV/3/224/3221228788/index.m3u8
+#EXTINF:-1 tvg-id="GITV小日子" tvg-name="小日子" tvg-logo="https://image.tmdb.org/t/p/original/8yOFMVyLWD6QVyhBShWblqhiEE2.png" group-title="轮播频道",小日子
+http://ott.mobaibox.com/PLTV/3/224/3221228678/index.m3u8
+#EXTINF:-1 tvg-id="GITV问心" tvg-name="问心" tvg-logo="https://image.tmdb.org/t/p/original/m8fnUlbFuLyzFalWhKbd7I1gHDu.png" group-title="轮播频道",问心
+http://ott.mobaibox.com/PLTV/3/224/3221228779/index.m3u8
+#EXTINF:-1 tvg-id="GITV长相思" tvg-name="长相思" tvg-logo="https://image.tmdb.org/t/p/original/AbupwDo7sHBAMh83vRfGQG8oLLn.png" group-title="轮播频道",长相思
+http://ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
+#EXTINF:-1 tvg-id="GITV人世间" tvg-name="人世间" tvg-logo="https://image.tmdb.org/t/p/original/cDubuGvfdUy6QryfdxJd7v8k1uO.png" group-title="轮播频道",人世间
+http://ott.mobaibox.com/PLTV/3/224/3221228719/index.m3u8
+#EXTINF:-1 tvg-id="GITV完美的她" tvg-name="完美的她" tvg-logo="https://image.tmdb.org/t/p/original/kuwjJvjdjf2M0BmX2c8nxi5FnL8.png" group-title="轮播频道",完美的她
+http://ott.mobaibox.com/PLTV/3/224/3221228690/index.m3u8
+#EXTINF:-1 tvg-id="GITV红" tvg-name="红" tvg-logo="https://www.gitv.cn/images/galaxy01.png" group-title="轮播频道",红
+http://ott.mobaibox.com/PLTV/3/224/3221228604/index.m3u8
 #EXTINF:-1 tvg-id="GITV美食美味" tvg-name="美食美味" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/美食美味.png" group-title="轮播频道",美食美味
 http://ott.mobaibox.com/PLTV/3/224/3221228562/index.m3u8
 #EXTINF:-1 tvg-id="GITV自然风景" tvg-name="自然风景" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/自然风景.png" group-title="轮播频道",自然风景
@@ -854,7 +880,7 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=100000
 
 #苏超直播
 #EXTINF:-1 tvg-id="苏超直播" tvg-name="苏超直播" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDGoPM-NEcKQdv28sH8aUDqW89eZ5OIWCjoQLDR2y6w&s=10" group-title="苏超直播",苏超直播1 [仅限比赛时段]
-http://ott.mobaibox.com/PLTV/3/224/3221228592/index.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221228962/index.m3u8
 #EXTINF:-1 tvg-id="苏超直播" tvg-name="苏超直播" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDGoPM-NEcKQdv28sH8aUDqW89eZ5OIWCjoQLDR2y6w&s=10" group-title="苏超直播",苏超直播2 [仅限比赛时段]
 http://ott.mobaibox.com/PLTV/3/224/3221228735/index.m3u8
 #EXTINF:-1 tvg-id="苏超直播" tvg-name="苏超直播" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDGoPM-NEcKQdv28sH8aUDqW89eZ5OIWCjoQLDR2y6w&s=10" group-title="苏超直播",苏超直播3 [仅限比赛时段]
@@ -866,9 +892,9 @@ http://ott.mobaibox.com/PLTV/3/224/3221228803/index.m3u8
 #EXTINF:-1 tvg-id="苏超直播" tvg-name="苏超直播" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDGoPM-NEcKQdv28sH8aUDqW89eZ5OIWCjoQLDR2y6w&s=10" group-title="苏超直播",苏超直播6 [仅限比赛时段]
 http://ott.mobaibox.com/PLTV/3/224/3221228867/index.m3u8
 #EXTINF:-1 tvg-id="苏超直播" tvg-name="苏超直播" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDGoPM-NEcKQdv28sH8aUDqW89eZ5OIWCjoQLDR2y6w&s=10" group-title="苏超直播",苏超直播7 [仅限比赛时段]
-http://ott.mobaibox.com/PLTV/3/224/3221228905/index.m3u8
-#EXTINF:-1 tvg-id="苏超直播" tvg-name="苏超直播" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDGoPM-NEcKQdv28sH8aUDqW89eZ5OIWCjoQLDR2y6w&s=10" group-title="苏超直播",苏超直播8 [仅限比赛时段]
 http://ott.mobaibox.com/PLTV/3/224/3221228908/index.m3u8
+#EXTINF:-1 tvg-id="苏超直播" tvg-name="苏超直播" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDGoPM-NEcKQdv28sH8aUDqW89eZ5OIWCjoQLDR2y6w&s=10" group-title="苏超直播",苏超直播8 [仅限比赛时段]
+http://ott.mobaibox.com/PLTV/3/224/3221228592/index.m3u8
 
 #省外聚合
 #EXTINF:-1 tvg-id="河北4K" tvg-name="河北4K" tvg-logo="https://tb.zbds.top/logo/河北4K.png" group-title="省外聚合",河北4K [轮播]
@@ -1097,8 +1123,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221228502/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228516/index.m3u8
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/CCTV8.png" group-title="高清备选",CCTV-8 电视剧
 http://ott.mobaibox.com/PLTV/3/224/3221228578/index.m3u8
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/CCTV9.png" group-title="高清备选",CCTV-9 纪录
-http://ott.mobaibox.com/PLTV/3/224/3221228962/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/CCTV16.png" group-title="高清备选",CCTV-16 奥林匹克 4K
 http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/北京卫视4K.png" group-title="高清备选",北京卫视4K
