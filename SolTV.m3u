@@ -121,12 +121,12 @@ http://ott.mobaibox.com/PLTV/3/224/3221228574/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228695/index.m3u8
 #EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/CNR央广购物.png" group-title="央视数字",央广购物[recorded]
 http://ott.mobaibox.com/PLTV/3/224/3221228210/index.m3u8
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/CHC家庭影院.png" group-title="央视数字",CHC家庭影院
-http://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/chcjtyy/3000/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" http-user-agent="AptvPlayer-UA" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/CHC动作电影.png" group-title="央视数字",CHC动作电影
-http://hlsbkmgsplive.miguvideo.com/wd_r1/2018/gesee/chcdzdy/600/index.m3u8?&encrypt=
-#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/CHC影迷电影.png" group-title="央视数字",CHC影迷电影
-http://74.48.192.96:82/live.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1
+#EXTINF:-1 tvg-name="CHC家庭影院" http-user-agent="AptvPlayer-UA" group-title="央视数字" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",CHC家庭影院
+http://101.35.240.114:88/live.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2
+#EXTINF:-1 tvg-name="CHC动作电影" http-user-agent="AptvPlayer-UA" group-title="央视数字" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",CHC动作电影
+http://101.35.240.114:88/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1
+#EXTINF:-1 tvg-name="CHC影迷电影" http-user-agent="AptvPlayer-UA" group-title="央视数字" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",CHC影迷电影
+http://101.35.240.114:88/live.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" http-user-agent="AptvPlayer-UA" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/重温经典.png" group-title="央视数字",重温经典频道
 http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 
@@ -547,6 +547,10 @@ http://ott.mobaibox.com/PLTV/3/224/3221228712/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228709/index.m3u8
 #EXTINF:-1 tvg-id="Live南京" tvg-name="Live南京·音乐台" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/Live南京.PNG" group-title="城市直播",音乐台
 http://ott.mobaibox.com/PLTV/3/224/3221228753/index.m3u8
+#EXTINF:-1 tvg-id="Live南京" tvg-name="Live南京·五马渡" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/Live南京.PNG" group-title="城市直播",五马渡
+http://ott.mobaibox.com/PLTV/3/224/3221228850/index.m3u8
+#EXTINF:-1 tvg-id="Live南京" tvg-name="Live南京·石象路" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/Live南京.PNG" group-title="城市直播",石象路
+http://ott.mobaibox.com/PLTV/3/224/3221228864/index.m3u8
 #EXTINF:-1 tvg-id="Live南京" tvg-name="Live南京·紫峰眺望3" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/Live南京.PNG" group-title="城市直播",紫峰眺望3
 http://ott.mobaibox.com/PLTV/3/224/3221228905/index.m3u8
 #EXTINF:-1 tvg-id="Live南京" tvg-name="Live南京·阅江楼" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/Live南京.PNG" group-title="城市直播",阅江楼
@@ -566,7 +570,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221229053/index.m3u8
 
 #咪咕数字
 #EXTINF:-1 tvg-id="芒果TV直播" tvg-name="芒果TV直播" tvg-logo="https://www.eternityx.com/wp-content/uploads/2022/04/Mango-TV-%E8%8A%92%E6%9E%9CTV-Logo.png" group-title="咪咕数字",芒果TV直播
-http://ott.mobaibox.com/PLTV/3/224/3221227896/index.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221227905/index.m3u8
 #EXTINF:-1 tvg-id="AI直播" tvg-name="AI直播" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/AI直播.png" group-title="咪咕数字",CNR AI直播 4K
 http://ott.mobaibox.com/PLTV/3/224/3221228873/index.m3u8
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/睛彩竞技.png" group-title="咪咕数字",睛彩竞技
@@ -1040,19 +1044,19 @@ http://37.27.111.214:8080/live/27/hls.m3u8
 #EXTINF:-1 tvg-id="CNA" tvg-name="亚洲新闻" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/亚洲新闻.png" group-title="省外聚合",亚洲新闻台
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="新加坡5频道" tvg-name="新加坡5频道" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/新加坡5频道.png" group-title="省外聚合",新传媒5频道
-http://cdn6.163189.xyz/163189/ch5
+https://cdn6.163189.xyz/163189/ch5
 #EXTINF:-1 tvg-id="新加坡8频道" tvg-name="新加坡8频道" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/新加坡8频道.png" group-title="省外聚合",新传媒8频道
-http://cdn6.163189.xyz/163189/ch8
+https://cdn6.163189.xyz/163189/ch8
 #EXTINF:-1 tvg-id="新加坡U频道" tvg-name="新加坡U频道" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/新加坡U频道.png" group-title="省外聚合",新传媒U频道
-http://cdn6.163189.xyz/163189/chu
+https://cdn6.163189.xyz/163189/chu
 #EXTINF:-1 tvg-id="天映" tvg-name="天映" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/天映.png" group-title="省外聚合",天映頻道
-https://cdn10.163189.xyz/stream/163189/typd/
+https://o11.163189.xyz/stream/live/typd/
 #EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/天映经典.png" group-title="省外聚合",天映經典頻道
-https://cdn10.163189.xyz/stream/163189/ccm/
+https://o11.163189.xyz/stream/live/ccm/
 #EXTINF:-1 tvg-id="popc" tvg-name="PopC" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/popc.png" group-title="省外聚合",PopC
 http://tl.061833.xyz/tl/popc
 #EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Logo_8TV_Malaysia.png/960px-Logo_8TV_Malaysia.png" group-title="省外聚合",八度空间
-http://cdn6.163189.xyz/163189/8tv
+https://o11.163189.xyz/stream/live/8tv/
 #EXTINF:-1 tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/爱奇艺.png" group-title="省外聚合",Astro爱奇艺
 http://o11.163189.xyz/stream/live/iqiyi/
 #EXTINF:-1 tvg-id="aec" tvg-name="AstroAEC" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-128,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" group-title="省外聚合",Astro AEC
