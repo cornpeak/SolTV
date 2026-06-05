@@ -79,6 +79,8 @@ https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mp
 https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="296" tvg-name="CGTNDocumentary" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/CGTN纪录.png" group-title="央视频道",CGTN Documentary
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
+#EXTINF:-1 tvg-id="CGTN财经" tvg-name="CGTN财经" tvg-logo="https://raw.githubusercontent.com/dxdragon/myTV/main/logo/CGTN财经.png" group-title="央视频道",CGTN Global Biz
+https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/index_6.m3u8
 
 #央视数字
 #EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/CCTV电视指南.png" group-title="央视数字",CCTV-电视指南
@@ -131,6 +133,8 @@ http://101.35.240.114:88/live.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1
 http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 
 #4K超高清
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/CCTV4K.png" group-title="4K超高清",CCTV-4K 超高清
+http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/CCTV16.png" group-title="4K超高清",CCTV-16 奥林匹克 4K
 http://ott.mobaibox.com/PLTV/3/224/3221228924/index.m3u8
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/北京卫视4K.png" group-title="4K超高清",北京卫视4K
@@ -457,6 +461,8 @@ http://ott.mobaibox.com/PLTV/3/224/3221227739/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221229003/index.m3u8
 #EXTINF:-1 tvg-id="灌南新闻综合" tvg-name="灌南新闻综合" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/灌南综合.png" group-title="县级频道",灌南新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221229035/index.m3u8
+#EXTINF:-1 tvg-id="灌云综合" tvg-name="灌云综合" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/灌云综合.png" group-title="县级频道",灌云综合
+http://ott.mobaibox.com/PLTV/3/224/3221229039/index.m3u8
 #EXTINF:-1 tvg-id="淮阴综合" tvg-name="淮阴综合" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/淮阴综合.png" group-title="县级频道",淮阴综合
 https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
 #EXTINF:-1 tvg-id="涟水综合" tvg-name="涟水综合" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/涟水综合.png" group-title="县级频道",涟水综合
@@ -593,6 +599,12 @@ http://ott.mobaibox.com/PLTV/3/224/3221228726/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228794/index.m3u8
 #EXTINF:-1 tvg-id="抖音热歌" tvg-name="抖音热歌" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/咪咕音乐.png" group-title="咪咕数字",抖音热歌
 http://ott.mobaibox.com/PLTV/3/224/3221228444/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/咪视界.png" group-title="咪咕数字",世界杯 绝对巨星-梅西
+http://ott.mobaibox.com/PLTV/3/224/3221229062/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/咪视界.png" group-title="咪咕数字",世界杯 绝对巨星-C罗
+http://ott.mobaibox.com/PLTV/3/224/3221229112/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/咪视界.png" group-title="咪咕数字",世界杯 经典回顾
+http://ott.mobaibox.com/PLTV/3/224/3221229109/index.m3u8
 
 #未来电视
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/黑莓动画.png" group-title="未来电视",黑莓动画
@@ -645,10 +657,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
 
 #轮播频道
-#EXTINF:-1 tvg-id="GITV高清臻享" tvg-name="高清臻享" tvg-logo="https://www.gitv.cn/images/galaxy01.png" group-title="轮播频道",高清臻享
-http://ott.mobaibox.com/PLTV/3/224/3221228589/index.m3u8
-#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/纯享4K.png" group-title="轮播频道",纯享4K
-http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
 #EXTINF:-1 tvg-id="真4K" tvg-name="真4K" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/4K修复.png" group-title="轮播频道",真4K
 http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 #EXTINF:-1 tvg-id="小猪佩奇" tvg-name="小猪佩奇" tvg-logo="https://image.tmdb.org/t/p/original/lDIoDYxss2lBzi869YQmjVfY7A8.png" group-title="轮播频道",小猪佩奇
@@ -901,7 +909,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228908/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228592/index.m3u8
 
 #省外聚合
-#EXTINF:-1 tvg-id="河北4K" tvg-name="河北4K" tvg-logo="https://tb.zbds.top/logo/河北4K.png" group-title="省外聚合",河北4K [轮播]
+#EXTINF:-1 tvg-id="河北4K" tvg-name="河北4K" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/河北卫视.png" group-title="省外聚合",河北4K [轮播]
 https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 tvg-id="国学" tvg-name="国学" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/国学.png" group-title="省外聚合",国学频道
 rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=20a0f050962325f32437860a3520c23d&wsTime=1758564020
@@ -917,24 +925,16 @@ http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://utv1.hqtvzb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-id="NOW新闻" tvg-name="NOW新闻" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/now新闻台.png" group-title="省外聚合",NOW新聞台
 https://cdn.163189.xyz/163189/now
-#EXTINF:-1 tvg-id="邵氏电影" tvg-name="邵氏电影" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/邵氏电影.png" group-title="省外聚合",邵氏电影
-http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="邵氏动作" tvg-name="邵氏动作" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/邵氏电影.png" group-title="省外聚合",邵氏动作
-http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="邵氏喜剧" tvg-name="邵氏喜剧" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/邵氏电影.png" group-title="省外聚合",邵氏喜剧
-http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="邵氏武侠" tvg-name="邵氏武侠" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/邵氏电影.png" group-title="省外聚合",邵氏武侠
-http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/ViuTV.png" group-title="省外聚合",VIUTV
-http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-#EXTINF:-1 tvg-id="HOY76" tvg-name="HOY76" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/2b/HoYIBC_logo.png" group-title="省外聚合",HOY76 國際財經台
-https://cdn11.163189.xyz/163189/2c86601a7180416e
+#EXTINF:-1 tvg-id="HOY76" tvg-name="HOY76" tvg-logo="https://raw.githubusercontent.com/dxdragon/myTV/main/logo/HOY76.png" group-title="省外聚合",HOY76 國際財經台
+https://cdn11.163189.xyz/163189/hoy76
 #EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/HOY77.png" group-title="省外聚合",HOY77
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=hoytv2
-#EXTINF:-1 tvg-id="HOY78" tvg-name="HOYTV资讯" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/960px-HOY_TV_Logo.svg.png" group-title="省外聚合",HOY78 資訊台
+https://cdn.163189.xyz/163189/hoy
+#EXTINF:-1 tvg-id="HOY78" tvg-name="HOYTV资讯" tvg-logo="https://raw.githubusercontent.com/dxdragon/myTV/main/logo/HOY78.png" group-title="省外聚合",HOY78 資訊台
 http://cdn.163189.xyz/163189/hoy78
-#EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/美亚电影台.png" group-title="省外聚合",美亞電影台
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=meiya
+#EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/ViuTV.png" group-title="省外聚合",ViuTV
+https://cdn10.163189.xyz/163189/viu/
+#EXTINF:-1 tvg-id="ViuTV6" tvg-name="ViuTVsix" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/ViuTV6.png" group-title="省外聚合",ViuTV Six
+https://cdn10.163189.xyz/163189/viu6/
 #EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/RTHK31.png" group-title="省外聚合",RTHK31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/RTHK32.png" group-title="省外聚合",RTHK32
@@ -961,6 +961,18 @@ http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 #EXTINF:-1 tvg-id="面包台" tvg-name="面包台" tvg-logo="https://bread-tv.com/uploads/allimg/241202/9_1836542371.png" group-title="省外聚合",面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 tvg-id="美亚C+" tvg-name="美亚C+" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/美亚C+.png" group-title="省外聚合",美亞C+
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+#EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/美亚电影台.png" group-title="省外聚合",美亞電影台
+https://php.jdshipin.com:2096/TVOD/iptv.php?id=meiya
+#EXTINF:-1 tvg-id="邵氏电影" tvg-name="邵氏电影" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/邵氏电影.png" group-title="省外聚合",邵氏电影
+http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="邵氏动作" tvg-name="邵氏动作" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/邵氏电影.png" group-title="省外聚合",邵氏动作
+http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="邵氏喜剧" tvg-name="邵氏喜剧" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/邵氏电影.png" group-title="省外聚合",邵氏喜剧
+http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="邵氏武侠" tvg-name="邵氏武侠" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/邵氏电影.png" group-title="省外聚合",邵氏武侠
+http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/澳视澳门.png" group-title="省外聚合",澳視澳門
 http://php.jdshipin.com/TVOD/iptv.php?id=asam
 #EXTINF:-1 tvg-id="澳门体育" tvg-name="澳门体育" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/澳门体育.png" group-title="省外聚合",澳門體育
@@ -983,7 +995,7 @@ https://cdn12.178.indevs.in/163189/73d93f1c22fa91d7
 http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 tvg-id="公视戏剧" tvg-name="公视戏剧" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/公视戏剧.png" group-title="省外聚合",公視戲劇
 https://cdn12.178.indevs.in/163189/2973b910e7719c08
-#EXTINF:-1 tvg-id="采昌影剧台" tvg-name="采昌影剧台" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mrT-qIlBzsVC-iRil6A9xpOldLYK1-mmSpb_lul1oDog=s900-c-k-c0x00ffffff-no-rj" group-title="省外聚合",采昌影劇台
+#EXTINF:-1 tvg-id="采昌影剧台" tvg-name="采昌影剧台" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/采昌影剧.png" group-title="省外聚合",采昌影劇台
 https://cdn12.178.indevs.in/163189/0a6204ed0261460c
 #EXTINF:-1 tvg-id="三立戏剧" tvg-name="三立戏剧" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/三立戏剧.png" group-title="省外聚合",三立戲劇台
 http://61.221.215.25:8800/hls/41/index.m3u8
@@ -1075,6 +1087,8 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="RTDoc" tvg-name="RT Documentary" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/RTDoc.png" group-title="省外聚合",RT Documentary
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="UN Web TV" tvg-name="UN Web TV" tvg-logo="https://raw.githubusercontent.com/dxdragon/myTV/main/logo/UNWebTV.png" group-title="省外聚合",UN Web TV
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="TVBrics" tvg-name="TVBrics" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/TVBrics.png" group-title="省外聚合",TV Brics
 https://chibrics.mediacdn.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="aljazeera" tvg-name="Al Jazeera English" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/aljazeera.png" group-title="省外聚合",Al Jazeera English
@@ -1112,25 +1126,25 @@ https://mytime-tcl.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="globalfashionchannel" tvg-name="Global Fashion Channel" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/GlobalFashionChannel.PNG" group-title="省外聚合",Global Fashion Channel
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_1080p.m3u8
 
-#高清备选
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/CCTV4K.png" group-title="高清备选",CCTV-4K 超高清
+#高清臻享
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/CCTV4K.png" group-title="高清臻享",CCTV-4K 超高清
 http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/CCTV1.png" group-title="高清备选",CCTV-1 综合
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/CCTV1.png" group-title="高清臻享",CCTV-1 综合
 http://ott.mobaibox.com/PLTV/3/224/3221228581/index.m3u8
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/CCTV2.png" group-title="高清备选",CCTV-2 财经
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/CCTV2.png" group-title="高清臻享",CCTV-2 财经
 http://ott.mobaibox.com/PLTV/3/224/3221228844/index.m3u8
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/CCTV3.png" group-title="高清备选",CCTV-3 综艺
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/CCTV3.png" group-title="高清臻享",CCTV-3 综艺
 http://ott.mobaibox.com/PLTV/3/224/3221228499/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/CCTV5.png" group-title="高清备选",CCTV-5 体育
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/CCTV5.png" group-title="高清臻享",CCTV-5 体育
 http://ott.mobaibox.com/PLTV/3/224/3221228502/index.m3u8
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/CCTV6.png" group-title="高清备选",CCTV-6 电影
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/CCTV5+.png" group-title="高清臻享",CCTV-5+ 体育赛事
+http://ott.mobaibox.com/PLTV/3/224/3221228962/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/CCTV6.png" group-title="高清臻享",CCTV-6 电影
 http://ott.mobaibox.com/PLTV/3/224/3221228516/index.m3u8
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/CCTV8.png" group-title="高清备选",CCTV-8 电视剧
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/CCTV8.png" group-title="高清臻享",CCTV-8 电视剧
 http://ott.mobaibox.com/PLTV/3/224/3221228578/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/CCTV16.png" group-title="高清备选",CCTV-16 奥林匹克 4K
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/CCTV16.png" group-title="高清臻享",CCTV-16 奥林匹克 4K
 http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
-#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/北京卫视4K.png" group-title="高清备选",北京卫视4K
-http://ott.mobaibox.com/PLTV/3/224/3221228817/index.m3u8
 
 #央视5.1声道
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/CCTV1.png" group-title="央视5.1声道",CCTV-1 综合
