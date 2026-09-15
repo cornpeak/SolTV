@@ -125,7 +125,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/CCTV16.png" group-title="4K超高清",CCTV-16 奥林匹克 4K
 http://ott.mobaibox.com/PLTV/3/224/3221228924/index.m3u8
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/北京卫视4K.png" group-title="4K超高清",北京卫视4K
-http://ott.mobaibox.com/PLTV/3/224/3221228890/index.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221228817/index.m3u8
 #EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/东方卫视4K.png" group-title="4K超高清",东方卫视4K
 http://ott.mobaibox.com/PLTV/3/224/3221228956/index.m3u8
 #EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/cornpeak/SolTV/refs/heads/main/tvlogo/江苏卫视4K.png" group-title="4K超高清",江苏卫视4K
